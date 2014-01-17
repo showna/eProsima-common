@@ -1,3 +1,7 @@
+# Copyright (c) 2013 eProsima. All rights reserved.
+#
+# This file is licensed to you under LGPLv4 license.
+
 COMMON_CFLAGS= -c -Wall -D__LITTLE_ENDIAN__
 
 # Get version of GCC and new target. (Not more needed)

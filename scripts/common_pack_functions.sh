@@ -1,3 +1,7 @@
+# Copyright (c) 2013 eProsima. All rights reserved.
+#
+# This file is licensed to you under LGPLv4 license.
+
 #!/bin/bash
 
 # @brief Return the version of a product.

@@ -1,3 +1,7 @@
+:: Copyright (c) 2013 eProsima. All rights reserved.
+::
+:: This file is licensed to you under LGPLv4 license.
+
 goto %*
 
 :: Function to get the current version of the product from a version.h header::

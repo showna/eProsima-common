@@ -1,3 +1,9 @@
+/*************************************************************************
+ * Copyright (c) 2013 eProsima. All rights reserved.
+ *
+ * This file is licensed to you under LGPLv3 license.
+ *
+ *************************************************************************/
 /*
  Expected defines.
 
