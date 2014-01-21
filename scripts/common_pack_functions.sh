@@ -1,8 +1,8 @@
+#!/bin/bash
+
 # Copyright (c) 2013 eProsima. All rights reserved.
 #
 # This file is licensed to you under LGPLv4 license.
-
-#!/bin/bash
 
 # @brief Return the version of a product.
 # @param Optional param that will be the variable where the version will be stored. Default variable is "version".
