@@ -1,6 +1,6 @@
 :: Copyright (c) 2013 eProsima. All rights reserved.
 ::
-:: This file is licensed to you under LGPLv4 license.
+:: This file is licensed to you under LGPLv3 license.
 
 goto %*
 

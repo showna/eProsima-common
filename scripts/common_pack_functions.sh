@@ -2,7 +2,7 @@
 
 # Copyright (c) 2013 eProsima. All rights reserved.
 #
-# This file is licensed to you under LGPLv4 license.
+# This file is licensed to you under LGPLv3 license.
 
 # @brief Return the version of a product.
 # @param Optional param that will be the variable where the version will be stored. Default variable is "version".
@@ -31,7 +31,7 @@ function getVersionFromCPP
     #eval $pversion=${tmpversion:21: -2}
     #version=${version:21: -2}
     tmpversion=${tmpversion:21}
-    eval $pversion=${tmpversion:0:((${#tmpversion} - 2))}
+    eval $pversion=${tmpversion:0:((${#tmpversion} - 1))}
 }
 
 # @brief Print the version of a product. Useful for Makefiles.

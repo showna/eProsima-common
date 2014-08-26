@@ -14,7 +14,7 @@
  - VERSION_RELEA
 */
 
-#if defined(_MSC_VER)
+#if defined(_MSC_VER) && defined(EPROSIMA_LIB_NAME)
     #define EPROSIMA_STRINGIZE(X) EPROSIMA_DO_STRINGIZE(X)
     #define EPROSIMA_DO_STRINGIZE(X) #X
 
